@@ -27,4 +27,4 @@
 ### Instructions:-
 * HTTP Requests should be sent in the below format
 * http://[IP Address]/cloudimagerecognition?input=[URL of the image]
-* example: http://13.57.186.192:8080/cloudimagerecognition?input=http://visa.lab.asu.edu/cifar-10/104_automobile.png
+* example: http://13.57.186.192:8080/cloudimagerecognition?input=http://visa.lab.gmu.edu/cifar-10/104_automobile.png
